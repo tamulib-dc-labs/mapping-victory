@@ -23,11 +23,11 @@ search:
     summary:
       enabled: true
     annotations:
-      enabled: false
+      enabled: true
       motivation:
         - commenting
         - tagging
 theme:
   appearance: light
-  accentColor: indigo
+  accentColor: red
   grayColor: slate
